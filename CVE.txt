@@ -1,0 +1,59 @@
+CVE-2020-12345
+
+Base Score: 4.6
+Vendor: nvd@nist.gov
+Access Vector: Local
+Access Complexity: Low
+Authentication: None
+Confidentiality Impact: Partial
+Integrity Impact: Partial
+Availability Impact: Partial
+ 
+Base Score: 7.8
+Vendor: nvd@nist.gov
+Attack Vector: Local
+Attack Complexity: Low
+Privileges Required: Low
+User Interaction: None
+Scope: Unchanged
+Confidentiality: High
+Integrity: High
+Availability: High
+ 
+CWE-281
+----------------------------------------------------------
+CVE-2018-14667
+
+Base Score: 7.5
+Vendor: nvd@nist.gov
+Access Vector: Network
+Access Complexity: Low
+Authentication: None
+Confidentiality Impact: Partial
+Integrity Impact: Partial
+Availability Impact: Partial
+ 
+Base Score: 9.8
+Vendor: secalert@redhat.com
+Attack Vector: Network
+Attack Complexity: Low
+Privileges Required: None
+User Interaction: None
+Scope: Unchanged
+Confidentiality: High
+Integrity: High
+Availability: High
+ 
+Base Score: 9.8
+Vendor: nvd@nist.gov
+Attack Vector: Network
+Attack Complexity: Low
+Privileges Required: None
+User Interaction: None
+Scope: Unchanged
+Confidentiality: High
+Integrity: High
+Availability: High
+ 
+CWE-94
+----------------------------------------------------------
